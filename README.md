@@ -42,4 +42,23 @@ After each campaign, performance data is stored and injected into the next gener
 
 ---
 
-## 🏗 Architecture
+## 🏗 Architecture & Flow
+**Two-Stage Segmentation Flow:**
+
+**Tools & Models:**
+
+| Component | Tool | Version/Model |
+|-----------|------|---------------|
+| AI Generation | Anthropic Claude | claude-sonnet-4-5 |
+| Web Framework | Flask | 3.1.3 |
+| CRM | HubSpot | Private App API v3 |
+| HTTP Client | Requests | 2.33.1 |
+| Environment | python-dotenv | 1.2.2 |
+
+## ⚠️ Assumptions & Limitations
+
+- **Email sending is simulated** — HubSpot Marketing Email requires a paid tier. In production this would connect to HubSpot's Marketing API, Mailchimp, or SendGrid
+- **Performance data is simulated** — engagement rates are calculated using realistic multipliers based on segment type, value proposition, topic affinity, and subject line style. Not random numbers — logic-driven simulation
+- **Contact list is mock data** — 100 contacts generated programmatically to reflect realistic agency role distribution across 5 roles and 2 segments
+- **Campaign history persists locally** — stored in `segment_history.json`. In production this would live in a database
+- **Behavior segments are projections** — Stage 2 segmentation becomes data-backed after 10+ campaigns. Initial distribution is projected from contact value prop affinities
