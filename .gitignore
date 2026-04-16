@@ -1,3 +1,7 @@
 .env
 __pycache__/
 *.pyc
+campaign_*.json
+content_*.json
+performance_*.json
+segment_history.json
