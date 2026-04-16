@@ -43,13 +43,74 @@ After each campaign, performance data is stored and injected into the next gener
 ---
 
 ## 🏗 Architecture & Flow
-**Two-Stage Segmentation Flow:**
 
-**Tools & Models:**
+```
+INPUT: Topic + Value Proposition
+            │
+            ▼
+    Claude Sonnet 4.5
+    Generates:
+    - Blog post (500 words)
+    - Decision Maker newsletter
+    - Pressure Builder newsletter
+    - 3 subject line options each
+    - 3 CTA options each
+            │
+            ▼
+    HUMAN REVIEW GATE
+    - Edit newsletter body
+    - Select subject line style
+    - Select CTA style
+    - Choose Manual or A/B mode
+            │
+            ▼
+    HUBSPOT CRM API
+    - 100 segmented contacts
+    - Campaign logged with topic,
+      date, segment, value prop
+            │
+            ▼
+    PERFORMANCE SIMULATION
+    Rates calculated using:
+    segment x value prop x
+    subject style x topic
+            │
+            ▼
+    ANALYTICS DASHBOARD
+    - Funnel metrics
+    - Content matrix
+    - Segment comparison
+    - CTA performance
+            │
+            ▼
+    AI RECOMMENDATIONS
+    Feeds back into next
+    content generation prompt
+```
 
-| Component | Tool | Version/Model |
-|-----------|------|---------------|
-| AI Generation | Anthropic Claude | claude-sonnet-4-5 |
+## 👥 Two-Stage Segmentation
+
+```
+Stage 1 Role-Based        Stage 2 Behavior-Based
+──────────────────        ──────────────────────
+Decision Maker      →     Efficiency Seeker
+Founders, Strategy        Time Back messaging
+
+Pressure Builder    →     Process Builder
+CDs, AMs, Freelance       Consistency messaging
+
+                          Growth Driver
+                          Scalability messaging
+
+                          Quality Leader
+                          Better Output messaging
+```
+
+## 🛠 Tools & Models
+
+| Component | Tool | Detail |
+|-----------|------|--------|
+| AI Model | Anthropic Claude | claude-sonnet-4-5 |
 | Web Framework | Flask | 3.1.3 |
 | CRM | HubSpot | Private App API v3 |
 | HTTP Client | Requests | 2.33.1 |
