@@ -1,0 +1,128 @@
+{
+  "generated_at": "2026-04-15 16:02:15.275848",
+  "performance": {
+    "creative_director": {
+      "social_media": {
+        "total": 20,
+        "delivered": 20,
+        "opened": 10,
+        "clicked_cta": 2,
+        "converted": 0,
+        "delivery_rate": 1.0,
+        "open_rate": 0.5,
+        "cta_click_rate": 0.2,
+        "conversion_rate": 0.0,
+        "avg_read_time_seconds": 101,
+        "winning_subject_line": "AI-generated captions are killing your brand voice"
+      },
+      "high_stakes_creative": {
+        "total": 19,
+        "delivered": 19,
+        "opened": 8,
+        "clicked_cta": 2,
+        "converted": 0,
+        "delivery_rate": 1.0,
+        "open_rate": 0.421,
+        "cta_click_rate": 0.25,
+        "conversion_rate": 0.0,
+        "avg_read_time_seconds": 106,
+        "winning_subject_line": "Your team shouldn't be resizing Instagram posts"
+      },
+      "combined": {
+        "total": 39,
+        "delivered": 39,
+        "opened": 17,
+        "clicked_cta": 3,
+        "converted": 0,
+        "delivery_rate": 1.0,
+        "open_rate": 0.436,
+        "cta_click_rate": 0.176,
+        "conversion_rate": 0.0,
+        "avg_read_time_seconds": 108,
+        "winning_subject_line": "Your team shouldn't be resizing Instagram posts"
+      }
+    },
+    "account_manager": {
+      "social_media": {
+        "total": 19,
+        "delivered": 18,
+        "opened": 8,
+        "clicked_cta": 1,
+        "converted": 0,
+        "delivery_rate": 0.947,
+        "open_rate": 0.444,
+        "cta_click_rate": 0.125,
+        "conversion_rate": 0.0,
+        "avg_read_time_seconds": 47,
+        "winning_subject_line": "Your social workflow is bleeding billable hours"
+      },
+      "high_stakes_creative": {
+        "total": 11,
+        "delivered": 11,
+        "opened": 4,
+        "clicked_cta": 1,
+        "converted": 0,
+        "delivery_rate": 1.0,
+        "open_rate": 0.364,
+        "cta_click_rate": 0.25,
+        "conversion_rate": 0.0,
+        "avg_read_time_seconds": 57,
+        "winning_subject_line": "Your social workflow is bleeding billable hours"
+      },
+      "combined": {
+        "total": 30,
+        "delivered": 29,
+        "opened": 13,
+        "clicked_cta": 2,
+        "converted": 0,
+        "delivery_rate": 0.967,
+        "open_rate": 0.448,
+        "cta_click_rate": 0.154,
+        "conversion_rate": 0.0,
+        "avg_read_time_seconds": 59,
+        "winning_subject_line": "Client approvals shouldn't take 47 emails"
+      }
+    },
+    "freelancer": {
+      "social_media": {
+        "total": 17,
+        "delivered": 16,
+        "opened": 8,
+        "clicked_cta": 2,
+        "converted": 0,
+        "delivery_rate": 0.941,
+        "open_rate": 0.5,
+        "cta_click_rate": 0.25,
+        "conversion_rate": 0.0,
+        "avg_read_time_seconds": 120,
+        "winning_subject_line": "The boring stuff is eating your best ideas"
+      },
+      "high_stakes_creative": {
+        "total": 14,
+        "delivered": 13,
+        "opened": 7,
+        "clicked_cta": 2,
+        "converted": 0,
+        "delivery_rate": 0.929,
+        "open_rate": 0.538,
+        "cta_click_rate": 0.286,
+        "conversion_rate": 0.0,
+        "avg_read_time_seconds": 106,
+        "winning_subject_line": "The boring stuff is eating your best ideas"
+      },
+      "combined": {
+        "total": 31,
+        "delivered": 30,
+        "opened": 18,
+        "clicked_cta": 4,
+        "converted": 0,
+        "delivery_rate": 0.968,
+        "open_rate": 0.6,
+        "cta_click_rate": 0.222,
+        "conversion_rate": 0.0,
+        "avg_read_time_seconds": 121,
+        "winning_subject_line": "Stop letting admin work steal your creative hours"
+      }
+    }
+  }
+}

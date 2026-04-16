@@ -1,0 +1,128 @@
+{
+  "generated_at": "2026-04-15 15:44:06.006072",
+  "performance": {
+    "creative_director": {
+      "social_media": {
+        "total": 8,
+        "delivered": 8,
+        "opened": 4,
+        "clicked_cta": 1,
+        "converted": 0,
+        "delivery_rate": 1.0,
+        "open_rate": 0.5,
+        "cta_click_rate": 0.25,
+        "conversion_rate": 0.0,
+        "avg_read_time_seconds": 86,
+        "winning_subject_line": "AI for social content: automation or abdication?"
+      },
+      "high_stakes_creative": {
+        "total": 9,
+        "delivered": 9,
+        "opened": 4,
+        "clicked_cta": 1,
+        "converted": 0,
+        "delivery_rate": 1.0,
+        "open_rate": 0.444,
+        "cta_click_rate": 0.25,
+        "conversion_rate": 0.0,
+        "avg_read_time_seconds": 84,
+        "winning_subject_line": "AI for social content: automation or abdication?"
+      },
+      "combined": {
+        "total": 17,
+        "delivered": 17,
+        "opened": 8,
+        "clicked_cta": 2,
+        "converted": 0,
+        "delivery_rate": 1.0,
+        "open_rate": 0.471,
+        "cta_click_rate": 0.25,
+        "conversion_rate": 0.0,
+        "avg_read_time_seconds": 58,
+        "winning_subject_line": "AI for social content: automation or abdication?"
+      }
+    },
+    "account_manager": {
+      "social_media": {
+        "total": 10,
+        "delivered": 10,
+        "opened": 4,
+        "clicked_cta": 1,
+        "converted": 0,
+        "delivery_rate": 1.0,
+        "open_rate": 0.4,
+        "cta_click_rate": 0.25,
+        "conversion_rate": 0.0,
+        "avg_read_time_seconds": 70,
+        "winning_subject_line": "Your team is drowning in social content. Here's why."
+      },
+      "high_stakes_creative": {
+        "total": 7,
+        "delivered": 7,
+        "opened": 3,
+        "clicked_cta": 1,
+        "converted": 0,
+        "delivery_rate": 1.0,
+        "open_rate": 0.429,
+        "cta_click_rate": 0.333,
+        "conversion_rate": 0.0,
+        "avg_read_time_seconds": 58,
+        "winning_subject_line": "Your team is drowning in social content. Here's why."
+      },
+      "combined": {
+        "total": 17,
+        "delivered": 17,
+        "opened": 8,
+        "clicked_cta": 1,
+        "converted": 0,
+        "delivery_rate": 1.0,
+        "open_rate": 0.471,
+        "cta_click_rate": 0.125,
+        "conversion_rate": 0.0,
+        "avg_read_time_seconds": 58,
+        "winning_subject_line": "The hidden cost of 'just posting more'"
+      }
+    },
+    "freelancer": {
+      "social_media": {
+        "total": 8,
+        "delivered": 8,
+        "opened": 5,
+        "clicked_cta": 1,
+        "converted": 0,
+        "delivery_rate": 1.0,
+        "open_rate": 0.625,
+        "cta_click_rate": 0.2,
+        "conversion_rate": 0.0,
+        "avg_read_time_seconds": 135,
+        "winning_subject_line": "AI for freelancers: handling volume without selling out"
+      },
+      "high_stakes_creative": {
+        "total": 8,
+        "delivered": 8,
+        "opened": 4,
+        "clicked_cta": 1,
+        "converted": 0,
+        "delivery_rate": 1.0,
+        "open_rate": 0.5,
+        "cta_click_rate": 0.25,
+        "conversion_rate": 0.0,
+        "avg_read_time_seconds": 111,
+        "winning_subject_line": "AI for freelancers: handling volume without selling out"
+      },
+      "combined": {
+        "total": 16,
+        "delivered": 15,
+        "opened": 8,
+        "clicked_cta": 2,
+        "converted": 0,
+        "delivery_rate": 0.938,
+        "open_rate": 0.533,
+        "cta_click_rate": 0.25,
+        "conversion_rate": 0.0,
+        "avg_read_time_seconds": 124,
+        "winning_subject_line": "AI for freelancers: handling volume without selling out"
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "topic": "Automating client communication",
+  "value_prop": "Scalability",
+  "segment": "both",
+  "content": {
+    "blog_title": "Why your best client communication strategy doesn't scale (and what does)",
+    "blog_outline": [
+      "The personal touch paradox: what works at 5 clients breaks at 15",
+      "The hidden cost of 'just being responsive' as you grow",
+      "Where most teams automate wrong (and train clients to expect less)",
+      "What actually scales: systems that feel more personal, not less",
+      "The communication infrastructure nobody talks about until it's too late"
+    ],
+    "blog_draft": "Here's the thing nobody tells you about scaling a creative business: the client communication habits that made you successful will eventually destroy you.\n\nWhen you have five clients, being the person who responds at 11 PM is a competitive advantage. At fifteen clients, it's unsustainable. At thirty, it's a liability that's quietly killing your team's capacity to do actual work.\n\nMost teams hit this wall and make one of two mistakes. They either white-knuckle it\u2014adding people, adding hours, adding Slack channels\u2014until something breaks. Or they automate badly, sending robotic updates that make clients feel like ticket numbers instead of partners.\n\nThe real problem? You're trying to scale a relationship model that was never designed to scale.\n\nThink about your last project. How many hours did your team spend writing status updates, answering \"where are we on this?\" emails, or tracking down information that already existed somewhere? Not creating. Not strategizing. Just... communicating about communicating.\n\nThat's not a people problem. It's an infrastructure problem.\n\nThe teams that scale well don't communicate more or less\u2014they build systems that make communication invisible. Clients get what they need, when they need it, without anyone manually shepherding information around. Updates happen automatically. Questions get answered before they're asked. Status is always clear.\n\nIt feels more attentive, not less. Because here's what clients actually want: not your 11 PM responsiveness, but the confidence that nothing is falling through the cracks.\n\nThe difference between a 10-person team and a 30-person team isn't headcount. It's whether your communication infrastructure can handle the load without your people becoming routers for information that should flow on its own.\n\nMost teams don't build this infrastructure until they're already drowning. By then, they're too buried to build it properly. They're bailing water, not fixing the boat.\n\nThe smartest move? Build it before you need it. While you still have the bandwidth to do it right. Before \"being responsive\" turns into \"being underwater.\"",
+    "newsletters": {
+      "decision_maker": {
+        "subject_clickbait": "The invisible ceiling at 15 clients",
+        "subject_direct": "Scale client communication without scaling headcount",
+        "subject_insider": "What profitable studios automate first",
+        "body": "You've probably noticed it: somewhere between 10 and 20 clients, communication overhead starts eating profit margins.\n\nYour team spends half their day writing updates, finding files, and answering \"what's the status?\" questions. You consider hiring another account person. Maybe two.\n\nBut here's what the studios scaling profitably have figured out: the problem isn't headcount. It's infrastructure.\n\nThey've built systems where client communication happens automatically\u2014updates flow without manual effort, status is always visible, questions get answered before they're asked. Clients feel more informed, not less. And teams spend their hours on billable work, not inbox management.\n\nThe math is simple: every hour your senior people spend routing information is an hour they're not generating revenue. Scale communication infrastructure, not overhead.\n\nThe teams building this now are the ones who'll win the next three years.",
+        "cta_action": "See how automation scales",
+        "cta_curiosity": "See what they automated first",
+        "cta_social_proof": "See how studios scale without overhead"
+      },
+      "pressure_builder": {
+        "subject_clickbait": "You're not slow\u2014you're drowning in updates",
+        "subject_direct": "Stop writing the same status update 12 times",
+        "subject_insider": "Why your best AMs are thinking about leaving",
+        "body": "Let me guess: you spent an hour this morning writing status updates for information that already existed in three different places.\n\nThen someone asked \"where are we on this?\" for a project you updated them on yesterday. Then you played file archaeology for something that should've taken thirty seconds to find.\n\nYou're not bad at your job. You're running on infrastructure that doesn't scale.\n\nThe teams that aren't drowning? They've automated the stuff that shouldn't require a human. Updates write themselves. Status is always visible. Clients get information proactively, so you're not playing defense all day.\n\nYou get your time back for the work that actually uses your brain. Strategy. Creative problem-solving. The stuff you were hired to do.\n\nThis is fixable. And it doesn't require working faster or smarter\u2014it requires better systems.",
+        "cta_action": "Automate your updates",
+        "cta_curiosity": "See what's possible",
+        "cta_social_proof": "See how teams got their time back"
+      }
+    }
+  }
+}

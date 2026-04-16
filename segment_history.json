@@ -1,0 +1,113 @@
+[
+  {
+    "topic": "AI-assisted decision making",
+    "value_prop": "Time Back",
+    "dm_subject_style": "clickbait",
+    "pb_subject_style": "clickbait",
+    "dm_cta": "action",
+    "pb_cta": "action",
+    "mode": "ab",
+    "behavior_segment": "Efficiency Seeker",
+    "dm_performance": {
+      "sent": 38,
+      "opened": 14,
+      "clicked": 4,
+      "unsubscribed": 0,
+      "converted": 0,
+      "open_rate": 38.4,
+      "click_rate": 11.4,
+      "unsub_rate": 1.94,
+      "conversion_rate": 0.0,
+      "cta_clicked": 1,
+      "cta_rate": 2.6
+    },
+    "pb_performance": {
+      "sent": 62,
+      "opened": 36,
+      "clicked": 13,
+      "unsubscribed": 0,
+      "converted": 1,
+      "open_rate": 59.4,
+      "click_rate": 22.6,
+      "unsub_rate": 1.18,
+      "conversion_rate": 1.6,
+      "cta_clicked": 8,
+      "cta_rate": 12.9
+    },
+    "date": "2026-04-16 12:50"
+  },
+  {
+    "topic": "AI-assisted decision making",
+    "value_prop": "Better Output",
+    "dm_subject_style": "direct",
+    "pb_subject_style": "clickbait",
+    "dm_cta": "social_proof",
+    "pb_cta": "curiosity",
+    "mode": "ab",
+    "behavior_segment": "Quality Leader",
+    "dm_performance": {
+      "sent": 38,
+      "opened": 27,
+      "clicked": 7,
+      "unsubscribed": 0,
+      "converted": 1,
+      "open_rate": 73.3,
+      "click_rate": 21.0,
+      "unsub_rate": 2.34,
+      "conversion_rate": 2.6,
+      "cta_clicked": 4,
+      "cta_rate": 10.5
+    },
+    "pb_performance": {
+      "sent": 62,
+      "opened": 27,
+      "clicked": 12,
+      "unsubscribed": 0,
+      "converted": 1,
+      "open_rate": 44.9,
+      "click_rate": 20.2,
+      "unsub_rate": 0.8,
+      "conversion_rate": 1.6,
+      "cta_clicked": 7,
+      "cta_rate": 11.3
+    },
+    "date": "2026-04-16 12:58"
+  },
+  {
+    "topic": "Performance insights and recommendations",
+    "value_prop": "Time Back",
+    "dm_subject_style": "clickbait",
+    "pb_subject_style": "clickbait",
+    "dm_cta": "action",
+    "pb_cta": "action",
+    "mode": "ab",
+    "behavior_segment": "Efficiency Seeker",
+    "dm_performance": {
+      "sent": 38,
+      "opened": 12,
+      "clicked": 4,
+      "unsubscribed": 0,
+      "converted": 0,
+      "open_rate": 32.7,
+      "click_rate": 13.1,
+      "unsub_rate": 1.77,
+      "conversion_rate": 0.0,
+      "cta_clicked": 2,
+      "cta_rate": 5.3
+    },
+    "pb_performance": {
+      "sent": 62,
+      "opened": 43,
+      "clicked": 14,
+      "unsubscribed": 0,
+      "converted": 2,
+      "open_rate": 70.3,
+      "click_rate": 23.8,
+      "unsub_rate": 1.0,
+      "conversion_rate": 3.2,
+      "cta_clicked": 7,
+      "cta_rate": 11.3
+    },
+    "date": "2026-04-16 12:59"
+  }
+]

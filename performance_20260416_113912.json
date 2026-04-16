@@ -1,0 +1,927 @@
+{
+  "campaigns": [
+    {
+      "topic": "Automating client communication",
+      "value_prop": "Time Back",
+      "segment": "Decision Maker",
+      "subject_style": "clickbait",
+      "performance": {
+        "sent": 38,
+        "opened": 11,
+        "clicked": 3,
+        "unsubscribed": 0,
+        "converted": 0,
+        "open_rate": 30.7,
+        "click_rate": 10.6,
+        "unsub_rate": 2.0,
+        "conversion_rate": 0.0
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Automating client communication",
+      "value_prop": "Time Back",
+      "segment": "Decision Maker",
+      "subject_style": "direct",
+      "performance": {
+        "sent": 38,
+        "opened": 15,
+        "clicked": 4,
+        "unsubscribed": 0,
+        "converted": 0,
+        "open_rate": 41.2,
+        "click_rate": 12.2,
+        "unsub_rate": 1.9,
+        "conversion_rate": 0.0
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Automating client communication",
+      "value_prop": "Time Back",
+      "segment": "Decision Maker",
+      "subject_style": "insider",
+      "performance": {
+        "sent": 38,
+        "opened": 13,
+        "clicked": 4,
+        "unsubscribed": 0,
+        "converted": 0,
+        "open_rate": 35.6,
+        "click_rate": 13.6,
+        "unsub_rate": 1.72,
+        "conversion_rate": 0.0
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Automating client communication",
+      "value_prop": "Time Back",
+      "segment": "Pressure Builder",
+      "subject_style": "clickbait",
+      "performance": {
+        "sent": 62,
+        "opened": 53,
+        "clicked": 22,
+        "unsubscribed": 0,
+        "converted": 3,
+        "open_rate": 85.8,
+        "click_rate": 36.4,
+        "unsub_rate": 1.1,
+        "conversion_rate": 4.8
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Automating client communication",
+      "value_prop": "Time Back",
+      "segment": "Pressure Builder",
+      "subject_style": "direct",
+      "performance": {
+        "sent": 62,
+        "opened": 42,
+        "clicked": 18,
+        "unsubscribed": 0,
+        "converted": 2,
+        "open_rate": 68.9,
+        "click_rate": 30.2,
+        "unsub_rate": 1.12,
+        "conversion_rate": 3.2
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Automating client communication",
+      "value_prop": "Time Back",
+      "segment": "Pressure Builder",
+      "subject_style": "insider",
+      "performance": {
+        "sent": 62,
+        "opened": 53,
+        "clicked": 22,
+        "unsubscribed": 0,
+        "converted": 3,
+        "open_rate": 86.4,
+        "click_rate": 36.5,
+        "unsub_rate": 1.1,
+        "conversion_rate": 4.8
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Automating client communication",
+      "value_prop": "Consistency",
+      "segment": "Decision Maker",
+      "subject_style": "clickbait",
+      "performance": {
+        "sent": 38,
+        "opened": 14,
+        "clicked": 5,
+        "unsubscribed": 0,
+        "converted": 0,
+        "open_rate": 38.9,
+        "click_rate": 14.0,
+        "unsub_rate": 1.68,
+        "conversion_rate": 0.0
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Automating client communication",
+      "value_prop": "Consistency",
+      "segment": "Decision Maker",
+      "subject_style": "direct",
+      "performance": {
+        "sent": 38,
+        "opened": 17,
+        "clicked": 7,
+        "unsubscribed": 0,
+        "converted": 1,
+        "open_rate": 46.2,
+        "click_rate": 19.1,
+        "unsub_rate": 2.08,
+        "conversion_rate": 2.6
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Automating client communication",
+      "value_prop": "Consistency",
+      "segment": "Decision Maker",
+      "subject_style": "insider",
+      "performance": {
+        "sent": 38,
+        "opened": 17,
+        "clicked": 5,
+        "unsubscribed": 0,
+        "converted": 0,
+        "open_rate": 45.2,
+        "click_rate": 15.7,
+        "unsub_rate": 1.7,
+        "conversion_rate": 0.0
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Automating client communication",
+      "value_prop": "Consistency",
+      "segment": "Pressure Builder",
+      "subject_style": "clickbait",
+      "performance": {
+        "sent": 62,
+        "opened": 51,
+        "clicked": 19,
+        "unsubscribed": 0,
+        "converted": 2,
+        "open_rate": 82.8,
+        "click_rate": 32.4,
+        "unsub_rate": 1.16,
+        "conversion_rate": 3.2
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Automating client communication",
+      "value_prop": "Consistency",
+      "segment": "Pressure Builder",
+      "subject_style": "direct",
+      "performance": {
+        "sent": 62,
+        "opened": 34,
+        "clicked": 14,
+        "unsubscribed": 0,
+        "converted": 2,
+        "open_rate": 55.4,
+        "click_rate": 23.4,
+        "unsub_rate": 0.97,
+        "conversion_rate": 3.2
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Automating client communication",
+      "value_prop": "Consistency",
+      "segment": "Pressure Builder",
+      "subject_style": "insider",
+      "performance": {
+        "sent": 62,
+        "opened": 46,
+        "clicked": 16,
+        "unsubscribed": 0,
+        "converted": 2,
+        "open_rate": 74.5,
+        "click_rate": 27.3,
+        "unsub_rate": 1.15,
+        "conversion_rate": 3.2
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Automating repetitive operations",
+      "value_prop": "Time Back",
+      "segment": "Decision Maker",
+      "subject_style": "clickbait",
+      "performance": {
+        "sent": 38,
+        "opened": 9,
+        "clicked": 2,
+        "unsubscribed": 0,
+        "converted": 0,
+        "open_rate": 25.5,
+        "click_rate": 7.9,
+        "unsub_rate": 1.63,
+        "conversion_rate": 0.0
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Automating repetitive operations",
+      "value_prop": "Time Back",
+      "segment": "Decision Maker",
+      "subject_style": "direct",
+      "performance": {
+        "sent": 38,
+        "opened": 13,
+        "clicked": 4,
+        "unsubscribed": 0,
+        "converted": 0,
+        "open_rate": 34.8,
+        "click_rate": 11.4,
+        "unsub_rate": 2.32,
+        "conversion_rate": 0.0
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Automating repetitive operations",
+      "value_prop": "Time Back",
+      "segment": "Decision Maker",
+      "subject_style": "insider",
+      "performance": {
+        "sent": 38,
+        "opened": 11,
+        "clicked": 3,
+        "unsubscribed": 0,
+        "converted": 0,
+        "open_rate": 30.3,
+        "click_rate": 10.8,
+        "unsub_rate": 1.95,
+        "conversion_rate": 0.0
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Automating repetitive operations",
+      "value_prop": "Time Back",
+      "segment": "Pressure Builder",
+      "subject_style": "clickbait",
+      "performance": {
+        "sent": 62,
+        "opened": 45,
+        "clicked": 19,
+        "unsubscribed": 0,
+        "converted": 2,
+        "open_rate": 74.0,
+        "click_rate": 31.4,
+        "unsub_rate": 1.02,
+        "conversion_rate": 3.2
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Automating repetitive operations",
+      "value_prop": "Time Back",
+      "segment": "Pressure Builder",
+      "subject_style": "direct",
+      "performance": {
+        "sent": 62,
+        "opened": 42,
+        "clicked": 16,
+        "unsubscribed": 0,
+        "converted": 2,
+        "open_rate": 68.8,
+        "click_rate": 27.5,
+        "unsub_rate": 1.14,
+        "conversion_rate": 3.2
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Automating repetitive operations",
+      "value_prop": "Time Back",
+      "segment": "Pressure Builder",
+      "subject_style": "insider",
+      "performance": {
+        "sent": 62,
+        "opened": 49,
+        "clicked": 20,
+        "unsubscribed": 0,
+        "converted": 3,
+        "open_rate": 79.9,
+        "click_rate": 33.9,
+        "unsub_rate": 0.98,
+        "conversion_rate": 4.8
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Automating repetitive operations",
+      "value_prop": "Consistency",
+      "segment": "Decision Maker",
+      "subject_style": "clickbait",
+      "performance": {
+        "sent": 38,
+        "opened": 10,
+        "clicked": 4,
+        "unsubscribed": 0,
+        "converted": 0,
+        "open_rate": 28.2,
+        "click_rate": 11.4,
+        "unsub_rate": 1.9,
+        "conversion_rate": 0.0
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Automating repetitive operations",
+      "value_prop": "Consistency",
+      "segment": "Decision Maker",
+      "subject_style": "direct",
+      "performance": {
+        "sent": 38,
+        "opened": 14,
+        "clicked": 5,
+        "unsubscribed": 0,
+        "converted": 0,
+        "open_rate": 37.8,
+        "click_rate": 14.4,
+        "unsub_rate": 1.78,
+        "conversion_rate": 0.0
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Automating repetitive operations",
+      "value_prop": "Consistency",
+      "segment": "Decision Maker",
+      "subject_style": "insider",
+      "performance": {
+        "sent": 38,
+        "opened": 15,
+        "clicked": 4,
+        "unsubscribed": 0,
+        "converted": 0,
+        "open_rate": 39.8,
+        "click_rate": 12.8,
+        "unsub_rate": 2.38,
+        "conversion_rate": 0.0
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Automating repetitive operations",
+      "value_prop": "Consistency",
+      "segment": "Pressure Builder",
+      "subject_style": "clickbait",
+      "performance": {
+        "sent": 62,
+        "opened": 45,
+        "clicked": 18,
+        "unsubscribed": 0,
+        "converted": 2,
+        "open_rate": 72.7,
+        "click_rate": 29.8,
+        "unsub_rate": 1.12,
+        "conversion_rate": 3.2
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Automating repetitive operations",
+      "value_prop": "Consistency",
+      "segment": "Pressure Builder",
+      "subject_style": "direct",
+      "performance": {
+        "sent": 62,
+        "opened": 34,
+        "clicked": 12,
+        "unsubscribed": 0,
+        "converted": 1,
+        "open_rate": 55.9,
+        "click_rate": 20.4,
+        "unsub_rate": 0.99,
+        "conversion_rate": 1.6
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Automating repetitive operations",
+      "value_prop": "Consistency",
+      "segment": "Pressure Builder",
+      "subject_style": "insider",
+      "performance": {
+        "sent": 62,
+        "opened": 39,
+        "clicked": 18,
+        "unsubscribed": 0,
+        "converted": 2,
+        "open_rate": 64.1,
+        "click_rate": 29.8,
+        "unsub_rate": 1.16,
+        "conversion_rate": 3.2
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Generating automated briefs",
+      "value_prop": "Time Back",
+      "segment": "Decision Maker",
+      "subject_style": "clickbait",
+      "performance": {
+        "sent": 38,
+        "opened": 11,
+        "clicked": 3,
+        "unsubscribed": 0,
+        "converted": 0,
+        "open_rate": 29.5,
+        "click_rate": 10.0,
+        "unsub_rate": 2.15,
+        "conversion_rate": 0.0
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Generating automated briefs",
+      "value_prop": "Time Back",
+      "segment": "Decision Maker",
+      "subject_style": "direct",
+      "performance": {
+        "sent": 38,
+        "opened": 13,
+        "clicked": 4,
+        "unsubscribed": 0,
+        "converted": 0,
+        "open_rate": 34.5,
+        "click_rate": 11.8,
+        "unsub_rate": 2.28,
+        "conversion_rate": 0.0
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Generating automated briefs",
+      "value_prop": "Time Back",
+      "segment": "Decision Maker",
+      "subject_style": "insider",
+      "performance": {
+        "sent": 38,
+        "opened": 13,
+        "clicked": 4,
+        "unsubscribed": 0,
+        "converted": 0,
+        "open_rate": 36.8,
+        "click_rate": 11.7,
+        "unsub_rate": 2.37,
+        "conversion_rate": 0.0
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Generating automated briefs",
+      "value_prop": "Time Back",
+      "segment": "Pressure Builder",
+      "subject_style": "clickbait",
+      "performance": {
+        "sent": 62,
+        "opened": 48,
+        "clicked": 19,
+        "unsubscribed": 0,
+        "converted": 2,
+        "open_rate": 77.6,
+        "click_rate": 31.6,
+        "unsub_rate": 0.97,
+        "conversion_rate": 3.2
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Generating automated briefs",
+      "value_prop": "Time Back",
+      "segment": "Pressure Builder",
+      "subject_style": "direct",
+      "performance": {
+        "sent": 62,
+        "opened": 39,
+        "clicked": 14,
+        "unsubscribed": 0,
+        "converted": 2,
+        "open_rate": 63.5,
+        "click_rate": 23.6,
+        "unsub_rate": 1.16,
+        "conversion_rate": 3.2
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Generating automated briefs",
+      "value_prop": "Time Back",
+      "segment": "Pressure Builder",
+      "subject_style": "insider",
+      "performance": {
+        "sent": 62,
+        "opened": 46,
+        "clicked": 18,
+        "unsubscribed": 0,
+        "converted": 2,
+        "open_rate": 75.5,
+        "click_rate": 30.2,
+        "unsub_rate": 0.85,
+        "conversion_rate": 3.2
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Generating automated briefs",
+      "value_prop": "Consistency",
+      "segment": "Decision Maker",
+      "subject_style": "clickbait",
+      "performance": {
+        "sent": 38,
+        "opened": 15,
+        "clicked": 4,
+        "unsubscribed": 0,
+        "converted": 0,
+        "open_rate": 39.8,
+        "click_rate": 12.7,
+        "unsub_rate": 1.86,
+        "conversion_rate": 0.0
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Generating automated briefs",
+      "value_prop": "Consistency",
+      "segment": "Decision Maker",
+      "subject_style": "direct",
+      "performance": {
+        "sent": 38,
+        "opened": 19,
+        "clicked": 6,
+        "unsubscribed": 0,
+        "converted": 0,
+        "open_rate": 50.5,
+        "click_rate": 16.5,
+        "unsub_rate": 2.3,
+        "conversion_rate": 0.0
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Generating automated briefs",
+      "value_prop": "Consistency",
+      "segment": "Decision Maker",
+      "subject_style": "insider",
+      "performance": {
+        "sent": 38,
+        "opened": 17,
+        "clicked": 6,
+        "unsubscribed": 0,
+        "converted": 0,
+        "open_rate": 45.6,
+        "click_rate": 16.7,
+        "unsub_rate": 2.2,
+        "conversion_rate": 0.0
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Generating automated briefs",
+      "value_prop": "Consistency",
+      "segment": "Pressure Builder",
+      "subject_style": "clickbait",
+      "performance": {
+        "sent": 62,
+        "opened": 42,
+        "clicked": 16,
+        "unsubscribed": 0,
+        "converted": 2,
+        "open_rate": 69.0,
+        "click_rate": 26.8,
+        "unsub_rate": 0.86,
+        "conversion_rate": 3.2
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Generating automated briefs",
+      "value_prop": "Consistency",
+      "segment": "Pressure Builder",
+      "subject_style": "direct",
+      "performance": {
+        "sent": 62,
+        "opened": 29,
+        "clicked": 13,
+        "unsubscribed": 0,
+        "converted": 1,
+        "open_rate": 47.5,
+        "click_rate": 22.5,
+        "unsub_rate": 1.0,
+        "conversion_rate": 1.6
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Generating automated briefs",
+      "value_prop": "Consistency",
+      "segment": "Pressure Builder",
+      "subject_style": "insider",
+      "performance": {
+        "sent": 62,
+        "opened": 35,
+        "clicked": 16,
+        "unsubscribed": 0,
+        "converted": 2,
+        "open_rate": 58.0,
+        "click_rate": 27.0,
+        "unsub_rate": 0.89,
+        "conversion_rate": 3.2
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Generating automated reports",
+      "value_prop": "Time Back",
+      "segment": "Decision Maker",
+      "subject_style": "clickbait",
+      "performance": {
+        "sent": 38,
+        "opened": 11,
+        "clicked": 3,
+        "unsubscribed": 0,
+        "converted": 0,
+        "open_rate": 31.1,
+        "click_rate": 11.3,
+        "unsub_rate": 2.25,
+        "conversion_rate": 0.0
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Generating automated reports",
+      "value_prop": "Time Back",
+      "segment": "Decision Maker",
+      "subject_style": "direct",
+      "performance": {
+        "sent": 38,
+        "opened": 16,
+        "clicked": 5,
+        "unsubscribed": 0,
+        "converted": 0,
+        "open_rate": 42.9,
+        "click_rate": 14.5,
+        "unsub_rate": 2.22,
+        "conversion_rate": 0.0
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Generating automated reports",
+      "value_prop": "Time Back",
+      "segment": "Decision Maker",
+      "subject_style": "insider",
+      "performance": {
+        "sent": 38,
+        "opened": 15,
+        "clicked": 4,
+        "unsubscribed": 0,
+        "converted": 0,
+        "open_rate": 39.7,
+        "click_rate": 12.8,
+        "unsub_rate": 1.71,
+        "conversion_rate": 0.0
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Generating automated reports",
+      "value_prop": "Time Back",
+      "segment": "Pressure Builder",
+      "subject_style": "clickbait",
+      "performance": {
+        "sent": 62,
+        "opened": 38,
+        "clicked": 16,
+        "unsubscribed": 0,
+        "converted": 2,
+        "open_rate": 62.8,
+        "click_rate": 27.4,
+        "unsub_rate": 1.02,
+        "conversion_rate": 3.2
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Generating automated reports",
+      "value_prop": "Time Back",
+      "segment": "Pressure Builder",
+      "subject_style": "direct",
+      "performance": {
+        "sent": 62,
+        "opened": 35,
+        "clicked": 11,
+        "unsubscribed": 0,
+        "converted": 1,
+        "open_rate": 56.7,
+        "click_rate": 19.3,
+        "unsub_rate": 0.84,
+        "conversion_rate": 1.6
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Generating automated reports",
+      "value_prop": "Time Back",
+      "segment": "Pressure Builder",
+      "subject_style": "insider",
+      "performance": {
+        "sent": 62,
+        "opened": 37,
+        "clicked": 16,
+        "unsubscribed": 0,
+        "converted": 2,
+        "open_rate": 60.1,
+        "click_rate": 27.6,
+        "unsub_rate": 1.05,
+        "conversion_rate": 3.2
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Generating automated reports",
+      "value_prop": "Consistency",
+      "segment": "Decision Maker",
+      "subject_style": "clickbait",
+      "performance": {
+        "sent": 38,
+        "opened": 16,
+        "clicked": 4,
+        "unsubscribed": 0,
+        "converted": 0,
+        "open_rate": 42.3,
+        "click_rate": 13.2,
+        "unsub_rate": 2.11,
+        "conversion_rate": 0.0
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Generating automated reports",
+      "value_prop": "Consistency",
+      "segment": "Decision Maker",
+      "subject_style": "direct",
+      "performance": {
+        "sent": 38,
+        "opened": 21,
+        "clicked": 5,
+        "unsubscribed": 0,
+        "converted": 0,
+        "open_rate": 57.8,
+        "click_rate": 16.5,
+        "unsub_rate": 2.15,
+        "conversion_rate": 0.0
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Generating automated reports",
+      "value_prop": "Consistency",
+      "segment": "Decision Maker",
+      "subject_style": "insider",
+      "performance": {
+        "sent": 38,
+        "opened": 17,
+        "clicked": 6,
+        "unsubscribed": 0,
+        "converted": 0,
+        "open_rate": 45.9,
+        "click_rate": 16.8,
+        "unsub_rate": 1.64,
+        "conversion_rate": 0.0
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Generating automated reports",
+      "value_prop": "Consistency",
+      "segment": "Pressure Builder",
+      "subject_style": "clickbait",
+      "performance": {
+        "sent": 62,
+        "opened": 34,
+        "clicked": 15,
+        "unsubscribed": 0,
+        "converted": 2,
+        "open_rate": 55.1,
+        "click_rate": 25.3,
+        "unsub_rate": 0.84,
+        "conversion_rate": 3.2
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Generating automated reports",
+      "value_prop": "Consistency",
+      "segment": "Pressure Builder",
+      "subject_style": "direct",
+      "performance": {
+        "sent": 62,
+        "opened": 26,
+        "clicked": 11,
+        "unsubscribed": 0,
+        "converted": 1,
+        "open_rate": 42.4,
+        "click_rate": 19.5,
+        "unsub_rate": 1.07,
+        "conversion_rate": 1.6
+      },
+      "date": "2026-04-16"
+    },
+    {
+      "topic": "Generating automated reports",
+      "value_prop": "Consistency",
+      "segment": "Pressure Builder",
+      "subject_style": "insider",
+      "performance": {
+        "sent": 62,
+        "opened": 31,
+        "clicked": 12,
+        "unsubscribed": 0,
+        "converted": 1,
+        "open_rate": 51.5,
+        "click_rate": 21.4,
+        "unsub_rate": 1.2,
+        "conversion_rate": 1.6
+      },
+      "date": "2026-04-16"
+    }
+  ],
+  "matrix": {
+    "Automating client communication": {
+      "Time Back": 23.2,
+      "Consistency": 22.0,
+      "Scalability": "--",
+      "Better Output": "--"
+    },
+    "Automating repetitive operations": {
+      "Time Back": 20.5,
+      "Consistency": 19.8,
+      "Scalability": "--",
+      "Better Output": "--"
+    },
+    "Generating automated briefs": {
+      "Time Back": 19.8,
+      "Consistency": 20.4,
+      "Scalability": "--",
+      "Better Output": "--"
+    },
+    "Generating automated reports": {
+      "Time Back": 18.8,
+      "Consistency": 18.8,
+      "Scalability": "--",
+      "Better Output": "--"
+    },
+    "Generating social media content": {
+      "Time Back": "--",
+      "Consistency": "--",
+      "Scalability": "--",
+      "Better Output": "--"
+    },
+    "AI-assisted decision making": {
+      "Time Back": "--",
+      "Consistency": "--",
+      "Scalability": "--",
+      "Better Output": "--"
+    },
+    "Risk detection and bottlenecks": {
+      "Time Back": "--",
+      "Consistency": "--",
+      "Scalability": "--",
+      "Better Output": "--"
+    },
+    "Performance insights and recommendations": {
+      "Time Back": "--",
+      "Consistency": "--",
+      "Scalability": "--",
+      "Better Output": "--"
+    }
+  },
+  "recommendations": {
+    "key_insight": "Pressure Builders respond 3-4x better than Decision Makers across all campaigns, with the segment being the dominant performance factor.",
+    "decision_maker_recommendation": "Test non-clickbait subject styles (insider/direct) with automating repetitive operations content, as clickbait consistently fails with this segment",
+    "pressure_builder_recommendation": "Continue with automating client communication using insider or clickbait subject styles, as both drive 36%+ click rates",
+    "next_topic": "Automating client communication",
+    "next_value_prop": "Time Back",
+    "subject_style_winner": "Insider subject style edges out clickbait (36.5% vs 36.4% in top performers) and likely builds more trust with high-performing Pressure Builder segment"
+  },
+  "generated_at": "2026-04-16T11:39:12.651350"
+}

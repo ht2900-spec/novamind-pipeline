@@ -1,0 +1,36 @@
+{
+  "topic": "AI-assisted decision making",
+  "value_prop": "Better Output",
+  "segment": "both",
+  "content": {
+    "blog_title": "The Decision Paradox: Why More Data Makes Worse Choices",
+    "blog_outline": [
+      "The modern decision-making crisis: drowning in options, starving for clarity",
+      "Why your gut instinct isn't enough (and neither is your analytics dashboard)",
+      "What AI-assisted decision making actually means (hint: not autopilot)",
+      "The three decisions AI should influence vs. the ones it shouldn't touch",
+      "How better decisions compound into unfair advantages"
+    ],
+    "blog_draft": "You've been in that meeting. The one where someone pulls up another dashboard, another report, another \"data-driven insight\" that somehow makes the decision harder, not easier.\n\nHere's the uncomfortable truth: we have more information than ever and we're making worse decisions because of it.\n\nThe problem isn't the data. It's that human brains weren't built to synthesize seventeen variables while also remembering that client call from Tuesday and keeping track of three Slack threads about budget.\n\nAI-assisted decision making isn't about handing over the wheel. It's about having a co-pilot who actually remembers everything, connects patterns you'd miss, and doesn't care about office politics.\n\nThink of it this way: your creative director shouldn't be wasting mental energy deciding which of twelve tasks to prioritize today. That's not strategy. That's administrative overhead dressed up as leadership.\n\nThe best use of AI in decisions? The repetitive, pattern-based ones that drain your team's bandwidth. Which projects are at risk. What tasks are blocking three other people. Which client requests conflict with existing commitments.\n\nThe worst use? Anything requiring taste, relationships, or moral judgment. AI can tell you a deadline is unrealistic. It can't tell you whether to push back or hustle.\n\nHere's what changes when you get this right: your team stops decision-fatigued. The good ideas\u2014the ones that usually get buried under \"we'll circle back to that\"\u2014actually surface. Your strategic thinking happens in the morning when you're sharp, not at 4pm when you're just trying to clear your task list.\n\nThe competitive advantage isn't that AI makes decisions for you. It's that AI handles the decisions that were never worth your time in the first place.\n\nWhich means your actual genius\u2014the insight, the creative leap, the strategic bet\u2014gets the space it deserves.\n\nThat's not automation. That's liberation.",
+    "newsletters": {
+      "decision_maker": {
+        "subject_clickbait": "Your smartest people are making their worst decisions at 4pm",
+        "subject_direct": "AI-assisted decisions = 3x faster strategic output",
+        "subject_insider": "Why top agencies are rethinking decision architecture",
+        "body": "Your team's decision-making capacity is finite. Every \"should we prioritize this or that\" conversation drains it.\n\nThe math is brutal: if your strategy lead spends 40% of their week on prioritization decisions, you're paying top-dollar salary for middle-management work.\n\nAI-assisted decision making isn't about replacing judgment. It's about reserving human judgment for decisions that actually matter.\n\nLet AI surface the patterns: which projects are bottlenecked, what's blocking your team, where timelines conflict. Your people make the call on strategy, relationships, creative direction.\n\nThe result? Your leadership team operates like they have a photographic memory and unlimited mental bandwidth.\n\nWhile competitors burn cognitive energy on task tetris, you're making the strategic bets that create distance.\n\nThat's not efficiency. That's competitive advantage.",
+        "cta_action": "See how NovaMind handles decisions for you \u2192",
+        "cta_curiosity": "Watch what better decisions actually look like \u2192",
+        "cta_social_proof": "See why 200+ teams trust NovaMind with decisions \u2192"
+      },
+      "pressure_builder": {
+        "subject_clickbait": "The decision that's stealing your creative energy (and you don't even notice)",
+        "subject_direct": "Stop deciding what to work on. Start actually working.",
+        "subject_insider": "Why your best work happens when you stop prioritizing",
+        "body": "You know that 10am feeling when you've already made forty micro-decisions about what to tackle first, which fire to fight, who needs what by when?\n\nThat's not work. That's decision overhead. And it's eating the energy you need for actual creative problem-solving.\n\nHere's what nobody talks about: most of those decisions follow patterns. Client A always needs faster turnarounds. Project B is always waiting on feedback. Designer C is always overloaded on Thursdays.\n\nAI can see those patterns. You shouldn't have to.\n\nWhen NovaMind handles the repetitive decision-making\u2014what's urgent, what's blocked, what needs attention\u2014something shifts. You stop playing traffic controller. You start doing the work that made you good at this in the first place.\n\nYour output doesn't just get faster. It gets better. Because you're not making creative decisions with a brain that's already exhausted from task tetris.\n\nYou deserve tools that respect your craft.",
+        "cta_action": "See NovaMind handle decisions for you \u2192",
+        "cta_curiosity": "Watch how this actually works \u2192",
+        "cta_social_proof": "Join 200+ creative teams who stopped deciding, started creating \u2192"
+      }
+    }
+  }
+}
