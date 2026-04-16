@@ -123,3 +123,53 @@ CDs, AMs, Freelance       Consistency messaging
 - **Contact list is mock data** — 100 contacts generated programmatically to reflect realistic agency role distribution across 5 roles and 2 segments
 - **Campaign history persists locally** — stored in `segment_history.json`. In production this would live in a database
 - **Behavior segments are projections** — Stage 2 segmentation becomes data-backed after 10+ campaigns. Initial distribution is projected from contact value prop affinities
+## 📁 File Structure
+
+```
+novamind/
+├── app.py                  # Content generation (Claude API)
+├── hubspot.py              # HubSpot CRM integration
+├── performance.py          # Performance simulation + analytics
+├── web.py                  # Flask web UI (main entry point)
+├── generate_contacts.py    # Mock contact generation
+├── novamind_contacts.csv   # 100 mock contacts
+├── segment_history.json    # Persistent campaign history
+├── .env                    # API keys (not committed)
+└── .env.example            # Required environment variables
+```
+
+## 🚀 How to Run Locally
+
+**1. Clone the repo**
+```bash
+git clone https://github.com/ht2900-spec/novamind-pipeline.git
+cd novamind-pipeline
+```
+
+**2. Install dependencies**
+```bash
+pip3 install anthropic flask requests python-dotenv
+```
+
+**3. Set up environment variables**
+```bash
+cp .env.example .env
+# Add your API keys to .env
+```
+
+**4. Run the pipeline**
+```bash
+python3 web.py
+```
+
+**5. Open in browser**
+```
+http://127.0.0.1:5000
+```
+
+## 🔑 Required API Keys
+
+| Key | Where to Get |
+|-----|-------------|
+| `ANTHROPIC_API_KEY` | console.anthropic.com |
+| `HUBSPOT_API_KEY` | HubSpot → Settings → Private Apps |
